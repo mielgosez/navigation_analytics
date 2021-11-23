@@ -13,7 +13,7 @@ pip install navigation_data
 
 The package expects a data model as follows:
 
-![data-model][imgs/data-model.png]
+![data-model](imgs/data-model.PNG)
 
 It mainly consists of the following tables:
 
