@@ -1,10 +1,17 @@
 # Byte-compiled / optimized / DLL files
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
 
 # C extensions
 *.so
+*.html
+
+.pickle
+
+# MSFT
+.xlsx
 
 # Distribution / packaging
 .Python
