@@ -6,7 +6,7 @@ Toolkit that creates portable objects specialized on analyzing web navigation da
 This package is available in pypi and can be installed using pip:
 
 ```
-pip install navigation_data
+pip install navigation_analytics
 ```
 
 # Rationale
